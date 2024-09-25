@@ -1,4 +1,4 @@
-# Sagacious-Outlay
+# Sagacious Outlay
 
 Sagacious Outlay is a price comparision frontend website of games(mainly pc,ps). It is divided in different sections for convenience and easy navigation showing recent prices and deals of different games extracted from different websites. 
 
@@ -25,3 +25,6 @@ Since its very difficult and time consuming to visit each & every website for pr
 
 ## Runing Project Locally
 - Simply run the "index.html" file in a browser from the root folder and you are good to go!
+
+
+
